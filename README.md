@@ -3,7 +3,8 @@
 성남사랑상품권 결제를 편리하게 해주는 AI 보조 앱, 착새
 <br>
 
-<img width="100" alt="착새팔벌려" src="https://github.com/user-attachments/assets/98214632-e7d1-4e52-987b-3ac61a964358" />
+<img width="100" alt="착새기본" src="https://github.com/user-attachments/assets/b10cf41e-e9dd-443d-aae3-41c506f85981" />
+
 
 
 ## 📁 폴더 구조 
