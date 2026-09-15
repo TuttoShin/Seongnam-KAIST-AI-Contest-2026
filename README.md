@@ -1,4 +1,4 @@
-# Seongnam-KAIST-AI-Contest-2026
+# SeongnamChackBird
 2026년 제2회 성남×KAIST AI 경진대회 출품작
 성남사랑상품권 결제를 편리하게 해주는 AI 보조 앱, 착새
 
