@@ -3,6 +3,7 @@ import express from "express";
 import cors from "cors";
 import storesRouter from "./routes/stores";
 import voiceRouter from "./routes/voice";
+import paymentRouter from "./routes/payment"; 
 
 const app = express();
 app.use(cors());
@@ -14,6 +15,7 @@ app.get("/health", (req, res) => {
 
 app.use("/stores", storesRouter);
 app.use("/voice", voiceRouter);
+app.use("/payment", paymentRouter);
 
 const PORT = 3000;
 app.listen(PORT, () => {
