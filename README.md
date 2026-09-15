@@ -4,7 +4,7 @@
 
 ## 폴더 구조 
 ```
-seongnam-pay-assistant/
+Seongnam-KAIST-AI-Contest-2026
 ├── android-app/                          # 네이티브 안드로이드 앱 (Kotlin)
 │   └── app/src/main/java/com/seongnam/payassistant/
 │       ├── assistant/                    # ROLE_ASSISTANT 관련
