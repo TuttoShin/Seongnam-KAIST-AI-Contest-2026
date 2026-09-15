@@ -1,0 +1,15 @@
+# 의존성 설치 폴더
+node_modules/
+
+# 환경변수
+.env
+
+# 빌드 결과물
+dist/
+
+# 안드로이드 작업
+android-app/.gradle/
+android-app/local.properties
+
+# OS 잡파일
+.DS_Store
