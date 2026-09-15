@@ -2,9 +2,9 @@
 2026년 제2회 성남×KAIST AI 경진대회 출품작
 성남사랑상품권 결제를 편리하게 해주는 AI 보조 앱, 착새
 
-## 폴더 구조 
+## 📁 폴더 구조 
 ```
-Seongnam-KAIST-AI-Contest-2026/
+📂 Seongnam-KAIST-AI-Contest-2026/
 ├── android-app/ # 안드로이드 앱 (Kotlin + Jetpack Compose)
 │ └── app/src/main/java/com/seongnam/chackbird/
 │ ├── assistant/ # ROLE_ASSISTANT / VoiceInteractionService (예정)
