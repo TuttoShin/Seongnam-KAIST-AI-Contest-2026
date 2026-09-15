@@ -47,3 +47,6 @@
 │
 └── README.md
 ```
+
+<img width="100" alt="착새기뻐" src="https://github.com/user-attachments/assets/47ca8d8c-ff6a-4639-9efc-1008f887c0d5" />
+
