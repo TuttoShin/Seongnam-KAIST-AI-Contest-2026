@@ -1,7 +1,9 @@
 # SeongnamChackBird
 2026년 제2회 성남×KAIST AI 경진대회 출품작 <br>
 성남사랑상품권 결제를 편리하게 해주는 AI 보조 앱, 착새
-<img width="200" alt="착새팔벌려" src="https://github.com/user-attachments/assets/98214632-e7d1-4e52-987b-3ac61a964358" />
+<br>
+
+<img width="100" alt="착새팔벌려" src="https://github.com/user-attachments/assets/98214632-e7d1-4e52-987b-3ac61a964358" />
 
 
 ## 📁 폴더 구조 
